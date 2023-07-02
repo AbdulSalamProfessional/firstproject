@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  background-color: #fff;
+  color: #fff;
+  min-height: 100vh;
+}
+.header{
+  background-color: yellow;
+}
+.footer{
+  background-color: blue;
+}
+h1{
+  margin: 0;
+}
+
+.header{
+  background-color: rgb(57, 19, 152);
+  padding: 10px;
+}
+.main{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+  flex-wrap: wrap;
+  padding: 14px;
+}
